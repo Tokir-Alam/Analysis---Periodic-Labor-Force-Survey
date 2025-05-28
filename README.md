@@ -21,17 +21,19 @@ At the national level, salaried employment accounts for 26.58% of the workforce,
 
 ## Share of Salaried Workers in Workforce by Region and State
 
+<img src="270G5-share-of-salaried-workers-in-workforce-by-region-and-state-2022-23-.png" width="450"/>
+
 #### Regional Highlights:
 
-North: States like Haryana (39.22%) and Punjab (33.97%) have relatively higher shares of salaried workers. Haryana also records one of the highest shares among females (35.65%).
+**North:** States like Haryana (39.22%) and Punjab (33.97%) have relatively higher shares of salaried workers. Haryana also records one of the highest shares among females (35.65%).
 
-South: Tamil Nadu (34.75%) and Kerala (27.17%) show strong salaried employment, especially among women in Tamil Nadu (25.07%).
+**South:** Tamil Nadu (34.75%) and Kerala (27.17%) show strong salaried employment, especially among women in Tamil Nadu (25.07%).
 
-West: Goa (56.27%) stands out with the highest share of salaried workers overall and among both genders (56.01% women and 56.27% men).
+**West:** Goa (56.27%) stands out with the highest share of salaried workers overall and among both genders (56.01% women and 56.27% men).
 
-Central & East: These regions generally have lower shares of salaried employment. Bihar (9.72%), Jharkhand (17.23%), and Madhya Pradesh (17.04%) are examples.
+**Central & East:** These regions generally have lower shares of salaried employment. Bihar (9.72%), Jharkhand (17.23%), and Madhya Pradesh (17.04%) are examples.
 
-North-East: Mixed results—Nagaland (38.37%) and Sikkim (38.85%) are high, while Assam (7.73%) and Tripura (17.07%) are on the lower end.
+**North-East:** Mixed results—Nagaland (38.37%) and Sikkim (38.85%) are high, while Assam (7.73%) and Tripura (17.07%) are on the lower end.
 
 The data reflects stark regional and gender-based disparities in salaried employment.
 
