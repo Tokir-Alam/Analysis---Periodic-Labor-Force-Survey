@@ -1,6 +1,6 @@
 # Analysis---Periodic-Labor-Force-Survey
 ## Labor Force Participation Rates Across Indian States 
-<img src="lfpr-by-states-2022-23-.png" alt="LFPR Chart" width="450"/>
+<img src="chart/lfpr-by-states-2022-23-.png" alt="LFPR Chart" width="450"/>
 The chart highlights significant variations in labor force participation rates (LFPR) across Indian states for the working-age population (15–59 years). Himachal Pradesh leads with an impressive LFPR of over 80%, indicating strong workforce engagement. Northeastern states like Sikkim, Nagaland, and the Union Territory of Andaman & Nicobar Islands also show high participation. In contrast, states like Bihar (43.9%), Delhi (45.3%), and Lakshadweep (45.5%) are at the bottom, pointing to relatively lower engagement of the working-age population in economic activities. The national average stands at 59.3%, suggesting that many states still lag behind the desired levels of labor market inclusion. This variation could reflect differences in education levels, availability of work, industrial composition, and social norms around work, especially for women.
 
 ## Gender Gap in Labor Force Participation Rates (LFPR) by Region and State 
