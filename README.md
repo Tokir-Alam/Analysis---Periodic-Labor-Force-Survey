@@ -1,2 +1,3 @@
 # Analysis---Periodic-Labor-Force-Survey
-https://www.datawrapper.de/_/H5o31/?v=2
+<img src="lfpr-by-states-2022-23-.png" alt="LFPR Chart" width="450"/>
+
