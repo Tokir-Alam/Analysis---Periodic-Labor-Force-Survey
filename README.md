@@ -1,3 +1,20 @@
 # Analysis---Periodic-Labor-Force-Survey
+## Labor Force Participation Rates Across Indian States 
 <img src="lfpr-by-states-2022-23-.png" alt="LFPR Chart" width="450"/>
+The chart highlights significant variations in labor force participation rates (LFPR) across Indian states for the working-age population (15–59 years). Himachal Pradesh leads with an impressive LFPR of over 80%, indicating strong workforce engagement. Northeastern states like Sikkim, Nagaland, and the Union Territory of Andaman & Nicobar Islands also show high participation. In contrast, states like Bihar (43.9%), Delhi (45.3%), and Lakshadweep (45.5%) are at the bottom, pointing to relatively lower engagement of the working-age population in economic activities. The national average stands at 59.3%, suggesting that many states still lag behind the desired levels of labor market inclusion. This variation could reflect differences in education levels, availability of work, industrial composition, and social norms around work, especially for women.
 
+## Gender Gap in Labor Force Participation Rates (LFPR) by Region and State 
+<img src="tVuae-gender-gap-in-labor-force-participation-rates-lfpr-by-region-and-state-2022-23-.png" alt="Gender Gap in LFPR" alt="LFPR Chart" width="450"/>
+This visualization captures the gender disparity in labor force participation across Indian states in 2022–23. It shows that men participate in the workforce at much higher rates than women in every region. Northern and Eastern states like Bihar, Punjab, and Haryana reflect particularly wide gaps, with low female participation. In contrast, several North-Eastern states such as Sikkim and Nagaland show narrower differences, indicating relatively better inclusion. Southern states fall somewhere in the middle, with moderate gaps.
+
+## Composition of Indian Workforce by Gender and Sector
+
+<img src="sVmsT-composition-of-the-indian-workforce-by-gender-and-sector-2022-23.png" alt="Gender Gap in LFPR" alt="LFPR Chart" width="450"/>
+
+In rural areas, self-employment dominates, especially among women, with nearly 70% engaged in it compared to about 58% of men. Casual labor also forms a significant share for both genders, though slightly more for men (27.4%) than women (22.3%). Regular salaried jobs are scarce in rural India overall but even more limited for women, who make up just 8% in this category. <br><br>
+
+In urban areas, regular salaried employment becomes the dominant form for both sexes. However, urban women show a slightly higher share (50.5%) in this segment than men (46.4%). Casual labor is less common in cities, but men still do more of it than women. Interestingly, the share of self-employment is nearly balanced between urban men and women, though slightly lower compared to rural areas.
+
+## State/UT-wise Distribution (%) of Workforce in India
+<img src="./f7SVu-state-ut-wise-distribution-of-workforce-2022-23-.png" alt="State/UT-wise Distribution of Workforce in India (2022–23)" width="450"/>
+The data reveals significant regional disparities. For instance, Delhi and Chandigarh have the highest share of regular salaried workers (61.55% and 63.7%, respectively), reflecting their urban nature and formal job availability. On the other hand, states like Arunachal Pradesh (73.12%) and Uttar Pradesh (70.56%) show a heavy reliance on self-employment. Casual labor is more dominant in states such as Assam (33.39%) and Tamil Nadu (33.26%). The visualization highlights the continued prevalence of informal work arrangements across most of India, with only a few regions showing a high share of stable, salaried employment.
